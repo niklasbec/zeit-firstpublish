@@ -1,0 +1,25 @@
+{
+  "name": "zeit-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "devserver": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklasbec/zeit-firstpublish.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niklasbec/zeit-firstpublish/issues"
+  },
+  "homepage": "https://github.com/niklasbec/zeit-firstpublish#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.0.1",
+    "live-server": "^1.2.1"
+  }
+}
